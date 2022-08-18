@@ -1,0 +1,12 @@
+a) Transform the given image (image_1) using rotation, affine and homography transforms.
+You can test with different parameters in each case. 
+
+b) Estimate the homography / affine transform using examples created in the first part.
+
+c) Image mosaicing (mosaic.zip)
+
+For part b) and c)  you will have to manually select corresponding points in the reference image and the transformed image for computing motion parameters.
+
+For c), mosaic the given 5 images (mosaic.zip) and compare with the reference image.
+
+(Explore some mouse based selection tools in whichever programming environment you work with.)
